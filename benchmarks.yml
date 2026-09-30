@@ -124,6 +124,8 @@ life:
   desc: Conway's Game of Life on a flat Array, counting neighbors with Array#count and Array#sum blocks.
 linked_list:
   desc: Builds, reverses in place and sums a singly linked list of 100,000 small objects.
+mandelbrot:
+  desc: "Benchmarks Game mandelbrot: renders a 400x400 Mandelbrot set bitmap with Float arithmetic, packing one bit per pixel."
 matmul:
   desc: matrix multiplication benchmark
   ractor: true
