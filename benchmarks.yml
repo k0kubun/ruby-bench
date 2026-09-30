@@ -166,6 +166,8 @@ string_malloc_pressure:
   category: gc
   single_file: true
   default_harness: gc
+template:
+  desc: A tiny template engine that scans a template one character at a time and replaces {{key}} placeholders from a Hash.
 tinygql:
   desc: TinyGQL gem parsing a large file in pure Ruby
 
