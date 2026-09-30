@@ -90,6 +90,8 @@ etanni:
 fannkuchredux:
   desc: fannkuchredux from the Computer Language Benchmarks Game.
   ractor: true
+fasta:
+  desc: "Benchmarks Game fasta: generates DNA sequences with a linear congruential generator, one character at a time."
 fluentd:
   desc: fluentd is a log collector, which parses logs in a server and forwards them to various destinations.
 grape:
