@@ -131,6 +131,8 @@ optcarrot:
   ractor: true
 partial_sums:
   desc: Accumulates nine Float series in one loop, calling Math.sin, Math.cos, Math.sqrt and Float#**.
+pidigits:
+  desc: Extracts 2,000 decimal digits of pi with Gosper's series using Bignum arithmetic.
 protoboeuf:
   desc: protoboeuf (pure-Ruby protobuf) message decoding
   ractor: true
