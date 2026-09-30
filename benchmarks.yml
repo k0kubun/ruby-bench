@@ -275,6 +275,9 @@ structaset:
   desc: structaset tests the performance of setting Struct members
   category: micro
   single_file: true
+tak:
+  desc: "Takeuchi function: triply recursive integer function calls."
+  category: micro
 throw:
   desc: microbenchmark for the throw instruction and stack unwinding.
   category: micro
