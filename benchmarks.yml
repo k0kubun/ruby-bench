@@ -278,6 +278,9 @@ structaset:
 tak:
   desc: "Takeuchi function: triply recursive integer function calls."
   category: micro
+tarai:
+  desc: "Tarai function, the original form of the Takeuchi function: triply recursive integer function calls."
+  category: micro
 throw:
   desc: microbenchmark for the throw instruction and stack unwinding.
   category: micro
