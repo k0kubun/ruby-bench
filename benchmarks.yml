@@ -72,6 +72,8 @@ addressable-setters:
   desc: addressable URI component setters (scheme, host, path modification)
 addressable-to-s:
   desc: addressable URI to string conversion
+ao_render:
+  desc: Ambient occlusion ray tracer over Float vectors and small objects (aobench by Syoyo Fujita).
 binarytrees:
   desc: binarytrees from the Computer Language Benchmarks Game.
 blurhash:
