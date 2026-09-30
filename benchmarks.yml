@@ -101,6 +101,8 @@ graphql:
   ractor: true
 graphql-native:
   desc: GraphQL gem parsing a large file, but using a native parser
+huffman:
+  desc: "Huffman compression: generates a text, counts byte frequencies, builds a Huffman tree and sums the encoded bit length."
 knucleotide:
   desc: k-nucleotide from the Computer Language Benchmarks Game - counts nucleotide frequencies using hash tables in parallel using Process.fork
 knucleotide-ractor:
