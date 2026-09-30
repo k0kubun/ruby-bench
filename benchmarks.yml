@@ -135,6 +135,8 @@ rubyboy:
   ractor: true
 rubykon:
   desc: Ruby solver for Go (the boardgame.) Runs many iterations forward from an initial starting board.
+sieve:
+  desc: Sieve of Eratosthenes over an 8192-element Array of flags, repeated 500 times.
 splay:
   desc: Splay tree operations (insert, find, remove) to stress GC.
   single_file: true
