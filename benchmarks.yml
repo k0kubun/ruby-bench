@@ -135,6 +135,8 @@ protoboeuf-encode:
   ractor: true
 rack:
   desc: test the performance of the Rack framework with barely any routing.
+rbtree:
+  desc: Left-leaning red-black tree inserting 10,000 keys with recursive rebalancing rotations, eleven times over.
 ruby-json:
   desc: an optimized version of the json_pure gem's pure Ruby JSON parser.
   ractor: true
