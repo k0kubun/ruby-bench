@@ -143,6 +143,8 @@ rubykon:
   desc: Ruby solver for Go (the boardgame.) Runs many iterations forward from an initial starting board.
 sieve:
   desc: Sieve of Eratosthenes over an 8192-element Array of flags, repeated 500 times.
+so_lists:
+  desc: "Doug Bagley's shootout lists test: moves every element of a 10,000-element Array between lists with shift, push and pop."
 splay:
   desc: Splay tree operations (insert, find, remove) to stress GC.
   single_file: true
