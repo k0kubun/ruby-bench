@@ -107,6 +107,8 @@ graphql-native:
   desc: GraphQL gem parsing a large file, but using a native parser
 huffman:
   desc: "Huffman compression: generates a text, counts byte frequencies, builds a Huffman tree and sums the encoded bit length."
+io_wordcount:
+  desc: Reads a 5,000-line file with IO#each_line, splits each line and counts the first words in a Hash.
 json_parse_mini:
   desc: A minimal recursive-descent JSON parser that walks the input one character at a time.
 knucleotide:
