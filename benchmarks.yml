@@ -84,6 +84,8 @@ gcbench:
   category: gc
   single_file: true
   default_harness: gc
+csv_process:
+  desc: Splits 5,000 comma-separated lines into fields with String#split and aggregates them into totals and a Hash.
 erubi:
   desc: erubi compiles a simple Erb template into a method with erubi, then times evaluating that method.
   ractor: true
