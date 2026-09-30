@@ -108,6 +108,8 @@ knucleotide-ractor:
   default_harness: default
 lee:
   desc: lee is a circuit-board layout solver, deployed in a plausibly reality-like way
+life:
+  desc: Conway's Game of Life on a flat Array, counting neighbors with Array#count and Array#sum blocks.
 matmul:
   desc: matrix multiplication benchmark
   ractor: true
