@@ -302,6 +302,9 @@ knucleotide-2:
 knucleotide-8:
   desc: "Benchmarks Game k-nucleotide #8: Isaac Gouy's transliteration counting k-mers with Range slices, Hash#key? and for loops."
   category: benchmarks-game
+mandelbrot-3:
+  desc: "Benchmarks Game mandelbrot #3: renders a Mandelbrot bitmap with Float arithmetic in nested while loops."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
