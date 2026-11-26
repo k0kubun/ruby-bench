@@ -279,6 +279,13 @@ throw:
   ractor: true
 
 #
+# The Computer Language Benchmarks Game
+#
+fannkuchredux-8:
+  desc: "Benchmarks Game fannkuch-redux #8: Isaac Gouy's plain transliteration, flipping prefixes of Array permutations in while loops."
+  category: benchmarks-game
+
+#
 # Ractor scaling benchmarks
 #
 gvl_release_acquire:
