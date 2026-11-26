@@ -290,6 +290,9 @@ fasta-2:
 fasta-3:
   desc: "Benchmarks Game fasta #3: generates DNA sequences through a lookup method built with instance_eval, filling a reused String buffer."
   category: benchmarks-game
+fasta-5:
+  desc: "Benchmarks Game fasta #5: generates DNA sequences with an eval-generated lambda per table, collecting each line with Range#collect."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
