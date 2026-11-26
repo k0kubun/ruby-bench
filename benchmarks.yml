@@ -308,6 +308,9 @@ mandelbrot-3:
 mandelbrot-8:
   desc: "Benchmarks Game mandelbrot #8: renders a Mandelbrot bitmap with Float arithmetic in nested Integer#times blocks."
   category: benchmarks-game
+nbody-2:
+  desc: "Benchmarks Game n-body #2: simulates planets with Float attribute accessors on small objects."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
