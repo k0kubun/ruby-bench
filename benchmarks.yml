@@ -296,6 +296,9 @@ fasta-5:
 fasta-8:
   desc: "Benchmarks Game fasta #8: Isaac Gouy's character-at-a-time transliteration with Integer arithmetic and for loops."
   category: benchmarks-game
+knucleotide-2:
+  desc: "Benchmarks Game k-nucleotide #2: counts k-mers of a generated DNA sequence with String#[] and a Hash, in a single process."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
