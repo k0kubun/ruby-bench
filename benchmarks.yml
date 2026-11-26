@@ -287,6 +287,9 @@ fannkuchredux-8:
 fasta-2:
   desc: "Benchmarks Game fasta #2: generates DNA sequences with a Float linear congruential generator and a linear table lookup per character."
   category: benchmarks-game
+fasta-3:
+  desc: "Benchmarks Game fasta #3: generates DNA sequences through a lookup method built with instance_eval, filling a reused String buffer."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
