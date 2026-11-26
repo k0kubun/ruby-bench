@@ -329,6 +329,9 @@ revcomp-2:
 spectralnorm-4:
   desc: "Benchmarks Game spectral-norm #4: power iteration on an implicit matrix with Float arithmetic in while loops."
   category: benchmarks-game
+spectralnorm-8:
+  desc: "Benchmarks Game spectral-norm #8: Isaac Gouy's transliteration of the power iteration using for loops over Ranges."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
