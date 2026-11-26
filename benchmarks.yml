@@ -305,6 +305,9 @@ knucleotide-8:
 mandelbrot-3:
   desc: "Benchmarks Game mandelbrot #3: renders a Mandelbrot bitmap with Float arithmetic in nested while loops."
   category: benchmarks-game
+mandelbrot-8:
+  desc: "Benchmarks Game mandelbrot #8: renders a Mandelbrot bitmap with Float arithmetic in nested Integer#times blocks."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
