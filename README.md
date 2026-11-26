@@ -78,6 +78,13 @@ By default, `run_benchmarks.rb` runs all three [benchmark categories](./benchmar
 ./run_benchmarks.rb --category micro
 ```
 
+The `benchmarks-game` category holds Ruby programs from [The Computer Language Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html),
+named after the program and the number of its Ruby variant there (`nbody-2` is n-body Ruby #2):
+
+```
+./run_benchmarks.rb --category benchmarks-game
+```
+
 You can also only the headline benchmarks with the `--headline` option:
 
 ```
