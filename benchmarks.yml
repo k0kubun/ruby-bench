@@ -314,6 +314,9 @@ nbody-2:
 nbody-7:
   desc: "Benchmarks Game n-body #7: simulates planets with Struct vectors, allocating a temporary Struct per vector operation."
   category: benchmarks-game
+nbody-8:
+  desc: "Benchmarks Game n-body #8: Isaac Gouy's transliteration indexing bodies[i].x through Array and attr_accessor in for loops."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
