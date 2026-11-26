@@ -323,6 +323,9 @@ pidigits-1:
 regexredux-9:
   desc: "Benchmarks Game regex-redux #9: matches and substitutes regexps over a generated DNA sequence."
   category: benchmarks-game
+revcomp-2:
+  desc: "Benchmarks Game reverse-complement #2: reads a generated DNA sequence line by line, reverses and translates it with String#tr."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
