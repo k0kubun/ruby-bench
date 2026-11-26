@@ -311,6 +311,9 @@ mandelbrot-8:
 nbody-2:
   desc: "Benchmarks Game n-body #2: simulates planets with Float attribute accessors on small objects."
   category: benchmarks-game
+nbody-7:
+  desc: "Benchmarks Game n-body #7: simulates planets with Struct vectors, allocating a temporary Struct per vector operation."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
