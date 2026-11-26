@@ -284,6 +284,9 @@ throw:
 fannkuchredux-8:
   desc: "Benchmarks Game fannkuch-redux #8: Isaac Gouy's plain transliteration, flipping prefixes of Array permutations in while loops."
   category: benchmarks-game
+fasta-2:
+  desc: "Benchmarks Game fasta #2: generates DNA sequences with a Float linear congruential generator and a linear table lookup per character."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
