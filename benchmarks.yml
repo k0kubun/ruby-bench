@@ -320,6 +320,9 @@ nbody-8:
 pidigits-1:
   desc: "Benchmarks Game pidigits #1: streams 2,000 digits of pi with a spigot over Bignum transformation objects."
   category: benchmarks-game
+regexredux-9:
+  desc: "Benchmarks Game regex-redux #9: matches and substitutes regexps over a generated DNA sequence."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
