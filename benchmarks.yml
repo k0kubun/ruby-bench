@@ -317,6 +317,9 @@ nbody-7:
 nbody-8:
   desc: "Benchmarks Game n-body #8: Isaac Gouy's transliteration indexing bodies[i].x through Array and attr_accessor in for loops."
   category: benchmarks-game
+pidigits-1:
+  desc: "Benchmarks Game pidigits #1: streams 2,000 digits of pi with a spigot over Bignum transformation objects."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
