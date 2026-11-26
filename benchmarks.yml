@@ -326,6 +326,9 @@ regexredux-9:
 revcomp-2:
   desc: "Benchmarks Game reverse-complement #2: reads a generated DNA sequence line by line, reverses and translates it with String#tr."
   category: benchmarks-game
+spectralnorm-4:
+  desc: "Benchmarks Game spectral-norm #4: power iteration on an implicit matrix with Float arithmetic in while loops."
+  category: benchmarks-game
 
 #
 # Ractor scaling benchmarks
